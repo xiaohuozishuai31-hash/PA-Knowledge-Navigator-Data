@@ -5,12 +5,12 @@ This repository provides an evaluation dataset for a knowledge navigation system
 
 ## 📁 Repository Structure
 PA-Knowledge-Navigator-Data/
-├── README.md
-├── Problems_Collection.json # Test questions with reference answers
-├── Horizontal_comparison_score.json # System comparison scoring results
-├── Confidence_score_statistics.json # Confidence statistics results
-├── prompts.txt # Prompt templates
-
+README.md
+Problems_Collection.json # Test questions with reference answers
+Horizontal_comparison_score.csv # System comparison scoring results
+Confidence_score_statistics.csv # Confidence statistics results
+prompts.txt # Prompt templates
+etc.
 
 ## 📄 File Descriptions
 
